@@ -29,8 +29,8 @@ if __name__ == "__main__":
             else: # to Ai+1
                 aip.append(top)
         ai = aip
-        for i in reversed(bip):
-            print(i)
+        for idx_b in reversed(bip):
+            print(idx_b)
 
     for i in reversed(aip):
         print(i)
