@@ -3,6 +3,6 @@
 3. Largest Rectangle (CLEAR)  
 4. Simple Text Editor (CLEAR)  
 5. Equal Stacks (CLEAR)  
-6. Poisonous Plants  
+6. Poisonous Plants (CLEAR) 
 7. AND xor OR (CLEAR)  
 8. Waiter (CLEAR)  
